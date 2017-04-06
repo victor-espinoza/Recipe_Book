@@ -8,10 +8,12 @@ Overview:
    
    Included in the Recipe_Book_Implementation Repository are two major text files containing recipes. Recipes1.txt contains 4 simple recipes that the user can view. Recipes2.txt contains different recipes that each student in the class submitted. In total, Recipes2.txt has 55 recipes that the user can browse through. The other text files contain either a single recipe or they are a result of saving the RecipeBook to a text file.
    
-   The user can also add recipes to a text file and upload that file to the program as long as it maintains the proper recipe format so that it is loaded correctly. The format is as follows:
-   
+   The user can also add recipes to a text file and upload that file to the program as long as it maintains the proper recipe format so that it is loaded correctly. 
+
+The format is as follows:
 Recipe_Name|Recipe_Description|Serving_Size|Prep_Time|Cooking_Time|Ingredients_Separated_by_@_Symbol|Recipe_Steps_Separated_by_@_Symbol
-Here is an example of what a proper recipe using this format should look like:
+
+Here is an example of a recipe using this format:
 Cereal with milk|Best breakfast ever.|1|1|0|Your favorite cereal@1 cup 2% milk|Pour cereal into bowl.@Pour milk over cereal.@Enjoy.@
    
    For a good example of how to use this program, make sure to check out the Sample Output section below!
