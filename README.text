@@ -24,3 +24,244 @@ This project was created using NetBeans IDE Version: 8.0.2.
 
 
 Sample Output:
+
+Main Menu:
+1. Load recipe file
+2. Save recipe file
+3. Show all recipe names
+4. Show recipe details
+5. Remove a recipe
+6. Find ingredient
+7. Sort recipes
+8. Exit
+Please enter a selection:
+1
+Please enter the name of a recipe database file:
+Recipes1.txt
+Loaded 4 recipes!
+
+Main Menu:
+1. Load recipe file
+2. Save recipe file
+3. Show all recipe names
+4. Show recipe details
+5. Remove a recipe
+6. Find ingredient
+7. Sort recipes
+8. Exit
+Please enter a selection:
+3
+
+All 4 recipes:
+Neal's Guacamole
+Cereal with milk
+Bacon-stuffed avocado
+Lazy Scrambled Eggs
+
+Main Menu:
+1. Load recipe file
+2. Save recipe file
+3. Show all recipe names
+4. Show recipe details
+5. Remove a recipe
+6. Find ingredient
+7. Sort recipes
+8. Exit
+Please enter a selection:
+4
+Please enter a recipe name:
+Bacon-stuffed avocado
+
+Performing linear search...
+
+Recipe:
+Bacon-stuffed avocado
+Short, easy, and combines two sinful delights. From avocadorecipes.net
+2 servings
+5 minutes prep, 10 minutes cooking
+
+Ingredients:
+4 medium avocados, ripe, unpeeled
+8 slices bacon, cooked cris,p crumbled
+Lemon juice, as needed
+1/2 cup butter
+1/4 cup brown sugar
+1/4 cup white wine vinegar
+1/4 cup garlic puree/paste
+1/2 teaspoon salt
+
+Steps:
+Slice avocados in half lengthwise; scoop out only half of the avocado flesh from each piece, leaving a small bowl of flesh in each.
+Place scooped avocado in a medium bowl; add bacon and mash gently.
+Spoon mixture back into each avocado half. Brush with lemon juice to prevent browning.
+Combine remaining ingredients in a small sauce pan; bring to a boil over medium-high heat, stirring occasionally.
+Whisk mixture until smooth; pour over filled avocado halves. Serve immediately.
+
+
+Main Menu:
+1. Load recipe file
+2. Save recipe file
+3. Show all recipe names
+4. Show recipe details
+5. Remove a recipe
+6. Find ingredient
+7. Sort recipes
+8. Exit
+Please enter a selection:
+7
+Please choose a sort field - name (1), servings (2), or time (3): (Enter integer number)
+fsda
+Please choose a sort field - name (1), servings (2), or time (3): (Enter integer number)
+1
+Ascending (1) or Descending (2) order: (Enter integer number)
+1
+Sorted recipes by name in ascending order
+
+Main Menu:
+1. Load recipe file
+2. Save recipe file
+3. Show all recipe names
+4. Show recipe details
+5. Remove a recipe
+6. Find ingredient
+7. Sort recipes
+8. Exit
+Please enter a selection:
+3
+
+All 4 recipes:
+Bacon-stuffed avocado
+Cereal with milk
+Lazy Scrambled Eggs
+Neal's Guacamole
+
+Main Menu:
+1. Load recipe file
+2. Save recipe file
+3. Show all recipe names
+4. Show recipe details
+5. Remove a recipe
+6. Find ingredient
+7. Sort recipes
+8. Exit
+Please enter a selection:
+4
+Please enter a recipe name:
+Lazy Scrambled Eggs
+
+Performing binary search...
+
+Recipe:
+Lazy Scrambled Eggs
+Easy way of making scrambled eggs.
+2 servings
+2 minutes prep, 5 minutes cooking
+
+Ingredients:
+2-3 eggs per person
+2 tablespoons milk for every 3 eggs
+1 tablespoon butter for every 3 eggs
+Salt
+Pepper
+1 avocado (optional)
+
+Steps:
+Crack eggs directly into a cold frying pan. Add milk and butter; salt and pepper to taste.
+Turn heat on low, and break up eggs with spatula. Stir slowly.
+Cook until eggs are still "wet" but firm. Plate and top with sliced avocado.
+
+Main Menu:
+1. Load recipe file
+2. Save recipe file
+3. Show all recipe names
+4. Show recipe details
+5. Remove a recipe
+6. Find ingredient
+7. Sort recipes
+8. Exit
+Please enter a selection:
+6
+Please enter an ingredient name:
+avocado
+These recipes use that ingredient:
+Bacon-stuffed avocado
+Lazy Scrambled Eggs
+Neal's Guacamole
+
+Main Menu:
+1. Load recipe file
+2. Save recipe file
+3. Show all recipe names
+4. Show recipe details
+5. Remove a recipe
+6. Find ingredient
+7. Sort recipes
+8. Exit
+Please enter a selection:
+5
+Please enter a recipe name:
+Lazy Scrambled Eggs
+
+Performing binary search...
+Recipe removed
+
+Main Menu:
+1. Load recipe file
+2. Save recipe file
+3. Show all recipe names
+4. Show recipe details
+5. Remove a recipe
+6. Find ingredient
+7. Sort recipes
+8. Exit
+Please enter a selection:
+3
+
+All 3 recipes:
+Bacon-stuffed avocado
+Cereal with milk
+Neal's Guacamole
+
+Main Menu:
+1. Load recipe file
+2. Save recipe file
+3. Show all recipe names
+4. Show recipe details
+5. Remove a recipe
+6. Find ingredient
+7. Sort recipes
+8. Exit
+Please enter a selection:
+;fjasd
+Please Enter An INTEGER NUMBER Between 1-8!
+
+Main Menu:
+1. Load recipe file
+2. Save recipe file
+3. Show all recipe names
+4. Show recipe details
+5. Remove a recipe
+6. Find ingredient
+7. Sort recipes
+8. Exit
+2
+
+Please enter the name of the file to save to:
+Updated_Recipes.txt
+Saved 3 recipes!
+
+Main Menu:
+1. Load recipe file
+2. Save recipe file
+3. Show all recipe names
+4. Show recipe details
+5. Remove a recipe
+6. Find ingredient
+7. Sort recipes
+8. Exit
+Please enter a selection:
+8
+
+The program will now terminate. Enjoy the rest of your day!
+
+
