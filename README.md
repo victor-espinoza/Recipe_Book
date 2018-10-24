@@ -1,4 +1,4 @@
-Project Overview:  
+Project Overview:   
 This program allows the user to load text files containing recipes, view recipe names within the session, display recipe information, search for a recipe by its ingredients, delete recipes, and save recipes to a text file.   
      
 In this project I store the recipes within the RecipeBook as elements in an ArrayList which implements the List interface. When a user starts a session by running the program, they can upload recipe's to the Recipe Book by loading a text file filled with recipes to the program. The program goes through and adds each recipe present in the text file to the Recipe Book. Once the recipes are loaded, the user can then view a recipe's details, search for recipes by ingredients, delete a recipe, save the recipes in the Recipe Book to a text file, sort the recipes, and exit the program.  
